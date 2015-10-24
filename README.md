@@ -31,6 +31,7 @@ Supported Formats
  - SAMI (read/write)
  - DFXP (read/write)
  - Transcript (write)
+ - WebVTT (read/write)
  
 License
 =======
